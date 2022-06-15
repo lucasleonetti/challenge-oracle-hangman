@@ -1,0 +1,78 @@
+body {
+    background-color: hsl(227deg 60% 97%);
+    margin: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+
+.hombre-ahorcado {
+    width: 100vw;
+    height: 16.75rem;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+
+#hombre {
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-block;
+}
+
+.adivinado {
+    text-align: center;
+    color: #002462;
+    font-size: 1.8rem;
+}
+
+.letra {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.adivinada {
+    width: 4.5rem;
+    height: 4.5rem;
+    font-size: 1.8rem;
+    color: #002462;
+    border-bottom: solid 1px #002462;
+    margin-left: 0.4rem;
+    line-height: 4.5rem;
+}
+
+.errado {
+    text-align: center;
+    margin-top: 1rem;
+    color: #242d34;
+    margin-left: 1rem;
+}
+
+.errada {
+    margin-left: 1rem;
+}
+
+[type="button"] {
+    width: 15rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: solid 1px #0a3871;
+    color: #0a3871;
+    cursor: pointer;
+    background-color: inherit;
+}
+
+.btn-azul {
+    background-color: #0a3871;
+    color: white;
+    border-color: #000;
+}
+
+.botones {
+    text-align: center;
+    margin-top: 3rem;
+}
