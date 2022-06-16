@@ -5,6 +5,6 @@ This is the second challenge of the oracle one next education bootcamp dictated 
 
 *This es a simple hangman game with a clean user interface*
 
-#The following program has not implement any framework!
+ -> The following program has not implement any framework!
 
 
