@@ -76,3 +76,23 @@ html {
     text-align: center;
     margin-top: 3rem;
 }
+
+footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: #E5E5E5;
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.autor {
+    padding: 4px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E5E5;
+}
